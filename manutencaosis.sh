@@ -38,4 +38,3 @@ clear
 echo ""
 echo "Manutenção concluida!"
 sleep 4
-exit
