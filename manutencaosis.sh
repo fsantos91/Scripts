@@ -34,8 +34,5 @@ echo "Reparando pacotes quebrados..."
 sudo dpkg --configure -a
 echo ""
 echo ""
-clear
-echo ""
 echo "Manutenção concluida!"
 sleep 4
-exit
