@@ -14,6 +14,10 @@ echo "Instalando atualizações..."
 sudo apt upgrade -y
 echo ""
 echo ""
+echo "Atualizando Sistema"
+sudo apt dist-upgrade -y
+echo ""
+echo ""
 echo "Limpando lixo residual do apt..."
 sudo apt autoclean -y
 echo ""
@@ -35,4 +39,3 @@ sudo dpkg --configure -a
 echo ""
 echo ""
 echo "Manutenção concluida!"
-sleep 4
