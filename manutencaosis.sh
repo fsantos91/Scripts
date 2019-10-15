@@ -4,7 +4,7 @@
 # Info   = Fazer limpeza e atualização do sistema
 # Author = Felipe dos Santos
 # Email  = felipesan.cwb@gmail.com
-# Github = fsantos91
+# Github = oifelipesan
 
 echo "Atualizando repositórios..."
 sudo apt update
